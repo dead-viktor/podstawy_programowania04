@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania04/pp04WiktoriaCmiel/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania04/pp04WiktoriaCmiel/Content/Maps/Main.umap",
+				"C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania04/pp04WiktoriaCmiel/Content/Materials/Mat_Landscape_01.uasset"
+			]
+		}
+	]
+}

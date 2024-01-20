@@ -1,0 +1,6 @@
+2024/01/20-16:07:18.685 2710 Creating DB C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania04/pp04WiktoriaCmiel/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/20-16:07:18.693 2710 Reusing MANIFEST C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania04/pp04WiktoriaCmiel/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/20-16:22:27.607 1d88 Level-0 table #5: started
+2024/01/20-16:22:27.632 1d88 Level-0 table #5: 1167 bytes OK
+2024/01/20-16:22:27.633 1d88 Delete type=0 #3
+2024/01/20-16:22:27.642 1d88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
